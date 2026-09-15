@@ -1,0 +1,34 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "description": "The open-source codebase and curriculum for free learning."
+    ,"language": "TypeScript",
+    "stars": 42000,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "The Algorithms",
+    "full_name": "TheAlgorithms/Python",
+    "description": "All algorithms implemented in Python."
+    ,"language": "Python",
+    "stars": 190000,
+    "url": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "name": "Vite",
+    "full_name": "vitejs/vite",
+    "description": "Next generation frontend tooling."
+    ,"language": "TypeScript",
+    "stars": 74000,
+    "url": "https://github.com/vitejs/vite"
+  },
+  {
+    "name": "Practical UI",
+    "full_name": "adrianhajdin/project_nextjs13_flexibble",
+    "description": "A practical example of a polished web interface."
+    ,"language": "JavaScript",
+    "stars": 1200,
+    "url": "https://github.com/adrianhajdin/project_nextjs13_flexibble"
+  }
+]
